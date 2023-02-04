@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://otolurk.github.io</id>
+    <title>OTOTIME</title>
+    <updated>2023-02-04T13:48:48.481Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://otolurk.github.io"/>
+    <link rel="self" href="https://otolurk.github.io/atom.xml"/>
+    <logo>https://otolurk.github.io/images/avatar.png</logo>
+    <icon>https://otolurk.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, OTOTIME</rights>
+    <entry>
+        <title type="html"><![CDATA[这儿什么都没有]]></title>
+        <id>https://otolurk.github.io/post/zhe-er-shi-me-du-mei-you/</id>
+        <link href="https://otolurk.github.io/post/zhe-er-shi-me-du-mei-you/">
+        </link>
+        <updated>2022-12-01T12:31:35.000Z</updated>
+        <content type="html"><![CDATA[<p>如你所见 All</p>
+]]></content>
+    </entry>
+</feed>
